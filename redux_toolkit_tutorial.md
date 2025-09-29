@@ -10,6 +10,7 @@ Today's Goal: Build a counter that ANY component can see and change!
 Scenario: Building a Simple Counter App
 
 Problem 1: Counter in One Component Only
+see
 
 // ❌ This counter is "trapped" in one component
 function CounterPage() {
